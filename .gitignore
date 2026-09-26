@@ -1,0 +1,10 @@
+/build*/
+/dist*/
+*.qcow2
+*.raw
+*.img
+.xhc-transaction-*/
+__pycache__/
+*.pyc
+
+/logs*/
