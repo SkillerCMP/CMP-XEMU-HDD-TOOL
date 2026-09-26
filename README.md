@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Info.png" alt="Xemu HDD Tools" width="700">
+  <img src="assets/Info.png" alt="Xemu HDD Tools" width="700">
 </p>
 <p align="center">
   <a href="https://github.com/SkillerCMP/CMP-XEMU-HDD-TOOL/releases">
@@ -342,6 +342,6 @@ Xemu HDD Tools favors recoverability over automatic cleanup.
 For build/install instructions, see `Install_Info.md`.
 
 <p align="center">
-  <img src="Assets/xbox.png" alt="CMP" width="700">
+  <img src="assets/xbox.png" alt="CMP" width="700">
 </p>
 
